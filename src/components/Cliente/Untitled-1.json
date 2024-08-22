@@ -1,0 +1,108 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "name": "João Silva",
+            "email": "joao.silva@example.com",
+            "city": "São Paulo"
+        },
+        {
+            "id": 2,
+            "name": "Maria Santos",
+            "email": "maria.santos@example.com",
+            "city": "Rio de Janeiro"
+        },
+        {
+            "id": 3,
+            "name": "Pedro Oliveira",
+            "email": "pedro.oliveira@example.com",
+            "city": "Belo Horizonte"
+        },
+        {
+            "id": 4,
+            "name": "Ana Souza",
+            "email": "ana.souza@example.com",
+            "city": "Salvador"
+        },
+        {
+            "id": 5,
+            "name": "Lucas Pereira",
+            "email": "lucas.pereira@example.com",
+            "city": "Porto Alegre"
+        },
+        {
+            "id": 6,
+            "name": "Mariana Costa",
+            "email": "mariana.costa@example.com",
+            "city": "Recife"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "price": "R$ 6.999,00",
+            "size": "128GB",
+            "category": {
+                "id": 1,
+                "name": "Eletrônicos"
+            },
+            "description": "O mais recente smartphone da Apple com câmera de alta resolução e desempenho incrível."
+        },
+        {
+            "id": 2,
+            "name": "Camiseta Polo",
+            "price": "R$ 99,90",
+            "size": "M",
+            "category": {
+                "id": 2,
+                "name": "Roupas"
+            },
+            "description": "Uma camiseta elegante e confortável para ocasiões casuais."
+        },
+        {
+            "id": 3,
+            "name": "Arroz Integral",
+            "price": "R$ 5,99",
+            "size": "1kg",
+            "category": {
+                "id": 3,
+                "name": "Alimentos"
+            },
+            "description": "Arroz integral de alta qualidade, rico em nutrientes e saudável."
+        },
+        {
+            "id": 4,
+            "name": "Sofá de Couro",
+            "price": "R$ 2.499,00",
+            "size": "3 lugares",
+            "category": {
+                "id": 4,
+                "name": "Móveis"
+            },
+            "description": "Um sofá de couro luxuoso e confortável para sua sala de estar."
+        },
+        {
+            "id": 5,
+            "name": "Perfume Importado",
+            "price": "R$ 299,90",
+            "size": "100ml",
+            "category": {
+                "id": 5,
+                "name": "Beleza"
+            },
+            "description": "Um perfume importado com fragrância exclusiva e duradoura."
+        },
+        {
+            "id": 6,
+            "name": "Bola de Futebol",
+            "price": "R$ 49,90",
+            "size": "5",
+            "category": {
+                "id": 6,
+                "name": "Esportes"
+            },
+            "description": "Uma bola de futebol de alta qualidade para jogos e treinamentos."
+        }
+    ]
+}
